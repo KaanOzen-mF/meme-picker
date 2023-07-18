@@ -12,10 +12,11 @@ Head over to https://vitejs.dev/ to learn more about using vite
 In this project I want to create meme picker web site. The memes picks according to user choose.
 
 In this project I have studied:
-->For of
-->import/export
-->radio & checkbox inputs
-->query selector
-->getElementsByClassname
-->classList.remove
-->includes()
+
+* For of
+* import/export
+* radio & checkbox inputs
+* query selector
+* getElementsByClassname
+* classList.remove
+* includes()
